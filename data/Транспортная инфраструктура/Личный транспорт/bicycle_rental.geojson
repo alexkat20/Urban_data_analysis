@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "bicycle_rental",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Energy Sport", "address": "9 Апреля, 5, Калининград", "latitude": 54.714030015614838, "longitude": 20.52171998681581 }, "geometry": { "type": "Point", "coordinates": [ 20.52171998681581, 54.714030015614838 ] } },
+{ "type": "Feature", "properties": { "Name": "Равновесие", "address": "Александра Невского, 51в, Калининград", "latitude": 54.731419992042447, "longitude": 20.530419983216746 }, "geometry": { "type": "Point", "coordinates": [ 20.530419983216746, 54.731419992042447 ] } },
+{ "type": "Feature", "properties": { "Name": "Velomagazin39", "address": "Профессора Севастьянова, 15-25, Калининград", "latitude": 54.715979981569575, "longitude": 20.508169969780454 }, "geometry": { "type": "Point", "coordinates": [ 20.508169969780454, 54.715979981569575 ] } },
+{ "type": "Feature", "properties": { "Name": "Веломир39", "address": "ТЦ Азимут, Генерала Челнокова, 33, Калининград", "latitude": 54.742529995153916, "longitude": 20.483849961535924 }, "geometry": { "type": "Point", "coordinates": [ 20.483849961535924, 54.742529995153916 ] } },
+{ "type": "Feature", "properties": { "Name": "Вело.ру", "address": "Генерала Челнокова, 52, Калининград", "latitude": 54.746749990036136, "longitude": 20.481920028329796 }, "geometry": { "type": "Point", "coordinates": [ 20.481920028329796, 54.746749990036136 ] } },
+{ "type": "Feature", "properties": { "Name": "Вело.ру", "address": "Пролетарская, 37-39, Калининград", "latitude": 54.714800019150033, "longitude": 20.512799965456509 }, "geometry": { "type": "Point", "coordinates": [ 20.512799965456509, 54.714800019150033 ] } },
+{ "type": "Feature", "properties": { "Name": "Веломагазин №1", "address": "Александра Невского, 11, Калининград", "latitude": 54.72534998540084, "longitude": 20.526049994177214 }, "geometry": { "type": "Point", "coordinates": [ 20.526049994177214, 54.72534998540084 ] } },
+{ "type": "Feature", "properties": { "Name": "Kross", "address": "Октябрьская, 37, Калининград", "latitude": 54.679250020850105, "longitude": 20.470760027165881 }, "geometry": { "type": "Point", "coordinates": [ 20.470784366575405, 54.67924841932188 ] } },
+{ "type": "Feature", "properties": { "Name": "Велосипедофф", "address": "Торговый дом Европа, Ленинский проспект, 7-9, Калининград", "latitude": 54.71779, "longitude": 20.50213 }, "geometry": { "type": "Point", "coordinates": [ 20.502622165289164, 54.717803078416665 ] } },
+{ "type": "Feature", "properties": { "Name": "Pro ремонт", "address": "БЦ На Ленинском, Ленинский проспект, 18, Калининград", "latitude": 54.71374, "longitude": 20.5054 }, "geometry": { "type": "Point", "coordinates": [ 20.5054, 54.71374 ] } },
+{ "type": "Feature", "properties": { "Name": "Мой девайс", "address": "Кирова, 7, Калининград", "latitude": 54.724320017138638, "longitude": 20.4943499716438 }, "geometry": { "type": "Point", "coordinates": [ 20.4943499716438, 54.724320017138638 ] } },
+{ "type": "Feature", "properties": { "Name": "Auto jet", "address": "Виктора Гюго, 1, Калининград", "latitude": 54.708119633931148, "longitude": 20.505508681120819 }, "geometry": { "type": "Point", "coordinates": [ 20.505608079451296, 54.707888556856474 ] } }
+]
+}

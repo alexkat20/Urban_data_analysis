@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "fuel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Газпромнефть", "address": "Московский проспект, 180, Калининград", "latitude": 54.709495631191977, "longitude": 20.548746055020832 }, "geometry": { "type": "Point", "coordinates": [ 20.54996324757856, 54.709097237232925 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтнефть", "address": "Красносельская, 91, Калининград", "latitude": 54.720111145146262, "longitude": 20.443317941387605 }, "geometry": { "type": "Point", "coordinates": [ 20.442474249418794, 54.721046506858038 ] } },
+{ "type": "Feature", "properties": { "Name": "Лукойл", "address": "Проспект Мира, 166, Калининград", "latitude": 54.722220015117074, "longitude": 20.437340038100871 }, "geometry": { "type": "Point", "coordinates": [ 20.437340038100871, 54.722220015117074 ] } },
+{ "type": "Feature", "properties": { "Name": "Газпромнефть", "address": "Александра Невского, 120л, Калининград", "latitude": 54.742729987363674, "longitude": 20.533130020151447 }, "geometry": { "type": "Point", "coordinates": [ 20.533322969614598, 54.742614435582951 ] } },
+{ "type": "Feature", "properties": { "Name": "Лукойл", "address": "Московский проспект, 6а, Калининград", "latitude": 54.710099992672951, "longitude": 20.494639985493677 }, "geometry": { "type": "Point", "coordinates": [ 20.494680807121277, 54.710100614206091 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтнефть", "address": "Калязинская, 1, Калининград", "latitude": 54.727219987999291, "longitude": 20.505609968912609 }, "geometry": { "type": "Point", "coordinates": [ 20.505733905091841, 54.727676022525742 ] } },
+{ "type": "Feature", "properties": { "Name": "Лукойл", "address": "Куйбышева, 36, Калининград", "latitude": 54.725019989872834, "longitude": 20.536629967641375 }, "geometry": { "type": "Point", "coordinates": [ 20.536629967641375, 54.725019989872834 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтнефть", "address": "Улица Горького, 178Б, Калининград", "latitude": 54.75395096599842, "longitude": 20.500310148394718 }, "geometry": { "type": "Point", "coordinates": [ 20.500822793436047, 54.755196414399634 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтнефть", "address": "Олега Кошевого, 31, Калининград", "latitude": 54.671009981385907, "longitude": 20.51255001710382 }, "geometry": { "type": "Point", "coordinates": [ 20.512573799946043, 54.671189720440168 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтнефть", "address": "Красная, 164а, Калининград", "latitude": 54.742180008786818, "longitude": 20.474089989659404 }, "geometry": { "type": "Point", "coordinates": [ 20.473316526096394, 54.742278365863747 ] } },
+{ "type": "Feature", "properties": { "Name": "Лукойл", "address": "Островского, 40, Калининград", "latitude": 54.741349990824858, "longitude": 20.53043004150058 }, "geometry": { "type": "Point", "coordinates": [ 20.53043004150058, 54.741349990824858 ] } },
+{ "type": "Feature", "properties": { "Name": "P&amp;Н", "address": "Московский проспект, 81, Калининград", "latitude": 54.709160004141353, "longitude": 20.514959981904809 }, "geometry": { "type": "Point", "coordinates": [ 20.515443015716283, 54.709242811295056 ] } }
+]
+}

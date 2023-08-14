@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "car_rental",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Lite-Rent", "address": "Сержанта Колоскова, 2а, Калининград", "latitude": 54.718929992392162, "longitude": 20.48472997755033 }, "geometry": { "type": "Point", "coordinates": [ 20.484910087569116, 54.718774044301128 ] } },
+{ "type": "Feature", "properties": { "Name": "Метгетен", "address": "Челюскинская, 17, Калининград", "latitude": 54.726149996149417, "longitude": 20.360630033705689 }, "geometry": { "type": "Point", "coordinates": [ 20.360718224598319, 54.726115503207893 ] } },
+{ "type": "Feature", "properties": { "Name": "Союз Прокатных Компаний", "address": "Александра Невского, 53, Калининград", "latitude": 54.731740013105679, "longitude": 20.530760037028585 }, "geometry": { "type": "Point", "coordinates": [ 20.530760037028585, 54.731740013105679 ] } },
+{ "type": "Feature", "properties": { "Name": "Premium", "address": "Дзержинского, 158, Калининград", "latitude": 54.67636702153905, "longitude": 20.54029351120889 }, "geometry": { "type": "Point", "coordinates": [ 20.540042580371978, 54.675777735528889 ] } },
+{ "type": "Feature", "properties": { "Name": "Сулигарент", "address": "Балтик-Престиж, площадь Маршала Василевского, 2, Калининград", "latitude": 54.71985, "longitude": 20.52361 }, "geometry": { "type": "Point", "coordinates": [ 20.52361, 54.71985 ] } },
+{ "type": "Feature", "properties": { "Name": "А-прокат", "address": "Фрунзе, 6в, Калининград", "latitude": 54.711909980844666, "longitude": 20.521529969070826 }, "geometry": { "type": "Point", "coordinates": [ 20.521529969070826, 54.711909980844666 ] } },
+{ "type": "Feature", "properties": { "Name": "Omega rent39", "address": "Подполковника Иванникова, 8, Калининград", "latitude": 54.71789000775567, "longitude": 20.506329974395385 }, "geometry": { "type": "Point", "coordinates": [ 20.506329974395385, 54.71789000775567 ] } },
+{ "type": "Feature", "properties": { "Name": "Сити-Рент", "address": "Проспект Мира, 50, Калининград", "latitude": 54.721159997731974, "longitude": 20.483860019819758 }, "geometry": { "type": "Point", "coordinates": [ 20.483880338351042, 54.721135557684853 ] } },
+{ "type": "Feature", "properties": { "Name": "Автопрокат Сервис", "address": "Портовая, 1, Калининград", "latitude": 54.703990004353216, "longitude": 20.504219997909019 }, "geometry": { "type": "Point", "coordinates": [ 20.504219997909019, 54.703990004353216 ] } },
+{ "type": "Feature", "properties": { "Name": "GoodCAR39", "address": "Александра Невского, 253, Калининград", "latitude": 54.759909997116722, "longitude": 20.543059977024342 }, "geometry": { "type": "Point", "coordinates": [ 20.543059977024342, 54.759909997116722 ] } },
+{ "type": "Feature", "properties": { "Name": "Амиго", "address": "Александра Невского, 36в, Калининград", "latitude": 54.727779982950437, "longitude": 20.528890034430134 }, "geometry": { "type": "Point", "coordinates": [ 20.528890034430134, 54.727779982950437 ] } }
+]
+}

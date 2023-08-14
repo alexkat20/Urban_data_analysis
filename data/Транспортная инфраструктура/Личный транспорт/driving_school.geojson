@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "driving_school",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Экстерн-Гарант", "address": "Торговый дом Европа, Ленинский проспект, 7-9, Калининград", "latitude": 54.71779, "longitude": 20.50213 }, "geometry": { "type": "Point", "coordinates": [ 20.502606844550595, 54.717856550868092 ] } },
+{ "type": "Feature", "properties": { "Name": "Рыцарь", "address": "Московский проспект, 177, Калининград", "latitude": 54.712429994117656, "longitude": 20.548869977029455 }, "geometry": { "type": "Point", "coordinates": [ 20.549197536621442, 54.712472801457885 ] } },
+{ "type": "Feature", "properties": { "Name": "Драйвер", "address": "Балтик-Престиж, площадь Маршала Василевского, 2, Калининград", "latitude": 54.71985, "longitude": 20.52361 }, "geometry": { "type": "Point", "coordinates": [ 20.52361, 54.71985 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр-авто", "address": "Ленинский проспект, 2-4, Калининград", "latitude": 54.715950016265708, "longitude": 20.502740005265338 }, "geometry": { "type": "Point", "coordinates": [ 20.502740005265338, 54.715950016265708 ] } },
+{ "type": "Feature", "properties": { "Name": "ДЖЕК", "address": "Фрунзе, 6в, Калининград", "latitude": 54.711909980844666, "longitude": 20.521529969070826 }, "geometry": { "type": "Point", "coordinates": [ 20.521529969070826, 54.711909980844666 ] } },
+{ "type": "Feature", "properties": { "Name": "Вектор", "address": "БЦ Панорама, Ленинский проспект, 131, Калининград", "latitude": 54.698720008460214, "longitude": 20.503669977422646 }, "geometry": { "type": "Point", "coordinates": [ 20.503451766985989, 54.698737538473381 ] } },
+{ "type": "Feature", "properties": { "Name": "Вектор", "address": "Александра Невского, 36в, Калининград", "latitude": 54.727779982950437, "longitude": 20.528890034430134 }, "geometry": { "type": "Point", "coordinates": [ 20.528890034430134, 54.727779982950437 ] } },
+{ "type": "Feature", "properties": { "Name": "Калининградская объединенная спортивно-техническая школа", "address": "Озёрная, 31а, Калининград", "latitude": 54.739550019027462, "longitude": 20.509930001809238 }, "geometry": { "type": "Point", "coordinates": [ 20.509930001809238, 54.739550019027462 ] } },
+{ "type": "Feature", "properties": { "Name": "Елена", "address": "Советский проспект, 40Б, Калининград", "latitude": 54.72831998706252, "longitude": 20.495069977126576 }, "geometry": { "type": "Point", "coordinates": [ 20.495069977126576, 54.72831998706252 ] } },
+{ "type": "Feature", "properties": { "Name": "Вектор", "address": "Проспект Мира, 134-136, Калининград", "latitude": 54.724379989655858, "longitude": 20.453749960499692 }, "geometry": { "type": "Point", "coordinates": [ 20.452425232129276, 54.721630322775695 ] } }
+]
+}

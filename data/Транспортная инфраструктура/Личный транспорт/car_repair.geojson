@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "car_repair",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Auto selma", "address": "Генерала Челнокова, 11д, Калининград", "latitude": 54.736320010729287, "longitude": 20.48961997986288 }, "geometry": { "type": "Point", "coordinates": [ 20.490902778175823, 54.736051915943676 ] } },
+{ "type": "Feature", "properties": { "Name": "Boxter_garage", "address": "Маршала Борзова, 90а к2, Калининград", "latitude": 54.736669997096385, "longitude": 20.458720009987587 }, "geometry": { "type": "Point", "coordinates": [ 20.458720009987587, 54.736669997096385 ] } },
+{ "type": "Feature", "properties": { "Name": "Автосити", "address": "Ялтинская, 66д, Калининград", "latitude": 54.703180019139864, "longitude": 20.562589979061187 }, "geometry": { "type": "Point", "coordinates": [ 20.562589979061187, 54.703180019139864 ] } },
+{ "type": "Feature", "properties": { "Name": "Киевский", "address": "Узловая, 16Б, Калининград", "latitude": 54.689159986883936, "longitude": 20.483820038141602 }, "geometry": { "type": "Point", "coordinates": [ 20.483820038141602, 54.689159986883936 ] } },
+{ "type": "Feature", "properties": { "Name": "ПАРКавто", "address": "Улица Горького, 285, Калининград", "latitude": 54.758419988098751, "longitude": 20.497310040750222 }, "geometry": { "type": "Point", "coordinates": [ 20.497310040750222, 54.758419988098751 ] } },
+{ "type": "Feature", "properties": { "Name": "Hyundai", "address": "Дзержинского, 130, Калининград", "latitude": 54.683600019050573, "longitude": 20.53356998624912 }, "geometry": { "type": "Point", "coordinates": [ 20.53356998624912, 54.683600019050573 ] } },
+{ "type": "Feature", "properties": { "Name": "Фалькон", "address": "Правая набережная, 22а, Калининград", "latitude": 54.70789002008172, "longitude": 20.444329958615981 }, "geometry": { "type": "Point", "coordinates": [ 20.444426828657932, 54.709150156195463 ] } },
+{ "type": "Feature", "properties": { "Name": "ПроАВТО", "address": "Полтавская, 1, Калининград", "latitude": 54.681900001448525, "longitude": 20.522929998358222 }, "geometry": { "type": "Point", "coordinates": [ 20.522790776756516, 54.682387328029343 ] } },
+{ "type": "Feature", "properties": { "Name": "Лал-Авто", "address": "Генерала Челнокова, 33а, Калининград", "latitude": 54.742951356116698, "longitude": 20.484174040050917 }, "geometry": { "type": "Point", "coordinates": [ 20.483465374516015, 54.743266056662208 ] } }
+]
+}

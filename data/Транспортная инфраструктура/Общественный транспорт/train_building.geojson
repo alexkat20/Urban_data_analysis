@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "train_building",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Калининград Южный", "address": "Железнодорожная, 13-23, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.498909978428344, 54.694509988042768 ] } },
+{ "type": "Feature", "properties": { "Name": "Калининград Северный", "address": "Советский проспект, 2, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.499989986652508, 54.721400013529404 ] } }
+]
+}

@@ -13,24 +13,22 @@ from geopy.geocoders import ArcGIS
 
 
 def geocode_buildings(address):
-
     geolocator = ArcGIS(user_agent="Tester")  # Указываем название приложения (так нужно, да)
 
     try:
-        location = geolocator.geocode("Калининград " + address, timeout=10)  # Создаем переменную, которая состоит из нужного нам адреса
-        return (location.latitude, location.longitude)
+        location = geolocator.geocode(
+            "Калининград " + address, timeout=10
+        )  # Создаем переменную, которая состоит из нужного нам адреса
+        return location.latitude, location.longitude
     except:
-        return (None, None)
+        return None, None
 
 
 class WebDriver:
-    location_data = {}
-
     def __init__(self):
-
         self.options = webdriver.ChromeOptions()
         self.options.headless = False
-        self.options.page_load_strategy = 'none'
+        self.options.page_load_strategy = "none"
 
         chrome_path = ChromeDriverManager().install()
         chrome_service = Service(chrome_path)
@@ -39,59 +37,69 @@ class WebDriver:
         self.driver.implicitly_wait(10)
 
     def get_number_of_places(self, url):
-
         self.driver.get(url)
-
         services = pd.DataFrame({"Name": [], "address": [], "latitude": [], "longitude": []})
 
         i = 1
-        while True:  # <=== change this number based on your requirement
-            time.sleep(1)
+        is_link = True
+        while is_link:  # <=== change this number based on your requirement
+            #  time.sleep(1)
             try:
-                WebDriverWait(self.driver, 15).until(EC.presence_of_element_located(
-                    (By.XPATH, f'(//div[contains(@class,"search-business-snippet-view__address")])[{i}]')))
+                WebDriverWait(self.driver, 40).until(
+                    EC.presence_of_element_located(
+                        (By.XPATH, f'(//a[contains(@class,"search-business-snippet-view__address")])')
+                    )
+                )
                 # load the reviews
-                self.driver.find_element(By.XPATH,
-                                         f'(//div[contains(@class,"search-business-snippet-view__address")])[{i}]'). \
-                    location_once_scrolled_into_view
 
-                review = self.driver.find_element(By.XPATH,
-                                                  f'(//div[contains(@class,"search-business-snippet-view__address")])[{i}]')
-                name = self.driver.find_element(By.XPATH,
-                                                  f'(//div[contains(@class,"search-business-snippet-view__title")])[{i}]').text
+                review = self.driver.find_element(
+                    By.XPATH, f'(//a[contains(@class,"search-business-snippet-view__address")])[{i}]'
+                )
+
+                review.location_once_scrolled_into_view
+
+                name = self.driver.find_element(
+                    By.XPATH, f'(//div[contains(@class,"search-business-snippet-view__title")])[{i}]'
+                ).text
 
                 # wait for loading the reviews
 
                 address = review.text
                 latitude, longitude = geocode_buildings(address)
-                services.loc[len(services)] = {"Name": name, "address": address, "latitude": latitude, "longitude": longitude}
+                services.loc[len(services)] = {
+                    "Name": name,
+                    "address": address,
+                    "latitude": latitude,
+                    "longitude": longitude,
+                }
 
                 # get the reviewsCount
-                print(name, address)
+                #  print(name, address)
                 i += 1
+
             except:
-                break
+                is_link = False
 
         return services
 
 
 links = []
+services = pd.DataFrame()
 
 print("Enter all the links you need to parser. When you finish enter 0")
 link = input()
 
-while link != '0':
+while link != "0":
     links.append(link)
     link = input()
 
 print(links)
 
-file_name = input("Enter the name of the file you want to sava your data in: ")
+file_name = input("Enter the name of the file you want to save your data in: ")
 
 print(file_name)
 
 for l in links:
-
     x = WebDriver()
     services = x.get_number_of_places(l)
     print(services)

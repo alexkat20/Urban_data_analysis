@@ -45,7 +45,7 @@ class WebDriver:
         while is_link:  # <=== change this number based on your requirement
             #  time.sleep(1)
             try:
-                WebDriverWait(self.driver, 40).until(
+                WebDriverWait(self.driver, 60).until(
                     EC.presence_of_element_located(
                         (By.XPATH, f'(//a[contains(@class,"search-business-snippet-view__address")])')
                     )

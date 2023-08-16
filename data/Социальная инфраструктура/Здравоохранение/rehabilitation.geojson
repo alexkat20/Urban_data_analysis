@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Яна врач", "address": "Московский просп., 48А, этаж 6, офис 1", "latitude": 54.709190011354998, "longitude": 20.503720017385 }, "geometry": { "type": "Point", "coordinates": [ 20.503720017385, 54.709190011354998 ] } },
+{ "type": "Feature", "properties": { "Name": "Особый ребёнок", "address": "ул. Подполковника Иванникова, 3", "latitude": 54.717109987846001, "longitude": 20.504889963429999 }, "geometry": { "type": "Point", "coordinates": [ 20.504889963429999, 54.717109987846001 ] } },
+{ "type": "Feature", "properties": { "Name": "Реацентр", "address": "просп. Победы, 70А", "latitude": 54.713479995127997, "longitude": 20.450540026860001 }, "geometry": { "type": "Point", "coordinates": [ 20.450540026860001, 54.713479995127997 ] } },
+{ "type": "Feature", "properties": { "Name": "Биорост", "address": "Гостиная ул., 5, этаж цокольный", "latitude": 54.717799986115999, "longitude": 20.488320030499001 }, "geometry": { "type": "Point", "coordinates": [ 20.488320030499001, 54.717799986115999 ] } },
+{ "type": "Feature", "properties": { "Name": "Клиника Лазаревой", "address": "ул. Дзержинского, 153, район Московский, этаж 2", "latitude": 54.673059985355003, "longitude": 20.544450031846999 }, "geometry": { "type": "Point", "coordinates": [ 20.544450031846999, 54.673059985355003 ] } },
+{ "type": "Feature", "properties": { "Name": "ГБУЗ центр общественного здоровья и медицинской профилактики Калининградской области", "address": "ул. Литовский Вал, 64А", "latitude": 54.708309995340002, "longitude": 20.537100024771 }, "geometry": { "type": "Point", "coordinates": [ 20.537100024771, 54.708309995340002 ] } },
+{ "type": "Feature", "properties": { "Name": "СибМедика", "address": "ул. Тенистая Аллея, 40, район Центральный, этаж 1", "latitude": 55.151138413466001, "longitude": 61.291665939857999 }, "geometry": { "type": "Point", "coordinates": [ 61.291665939857999, 55.151138413466001 ] } },
+{ "type": "Feature", "properties": { "Name": "МедЭскперт", "address": "просп. Победы, 33, этаж 4", "latitude": 54.715890001839, "longitude": 20.467949994125998 }, "geometry": { "type": "Point", "coordinates": [ 20.467949994125998, 54.715890001839 ] } },
+{ "type": "Feature", "properties": { "Name": "КинезиоЛогика", "address": "ул. Куйбышева, 40", "latitude": 54.724910019303003, "longitude": 20.538090011356001 }, "geometry": { "type": "Point", "coordinates": [ 20.538090011356001, 54.724910019303003 ] } },
+{ "type": "Feature", "properties": { "Name": "Обсервер", "address": "Интернациональная ул., 11, 1", "latitude": 54.669809986217999, "longitude": 20.497680017956 }, "geometry": { "type": "Point", "coordinates": [ 20.497680017956, 54.669809986217999 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр медицинской и социальной реабилитации УФСИН", "address": "ул. Чкалова, 7А", "latitude": 54.724639996291998, "longitude": 20.458929976661999 }, "geometry": { "type": "Point", "coordinates": [ 20.458929976661999, 54.724639996291998 ] } },
+{ "type": "Feature", "properties": { "Name": "Сбереги себя", "address": "ул. Гоголя, 12, этаж 3", "latitude": 54.733320001853997, "longitude": 20.519010033699999 }, "geometry": { "type": "Point", "coordinates": [ 20.519010033699999, 54.733320001853997 ] } },
+{ "type": "Feature", "properties": { "Name": "Реабилитационный центр", "address": "ул. Тенистая Аллея, 40", "latitude": 54.725146554906999, "longitude": 20.409967566982001 }, "geometry": { "type": "Point", "coordinates": [ 20.409967566982001, 54.725146554906999 ] } },
+{ "type": "Feature", "properties": { "Name": "Кабинет восстановления и коррекции речи", "address": "ул. Дзержинского, 130, комната 14В", "latitude": 54.683600019050999, "longitude": 20.533569986248999 }, "geometry": { "type": "Point", "coordinates": [ 20.533569986248999, 54.683600019050999 ] } },
+]
+}

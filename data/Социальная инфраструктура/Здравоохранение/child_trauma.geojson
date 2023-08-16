@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Детская областная больница, отделение лучевой диагностики", "address": "ул. Дмитрия Донского, 23", "latitude": 54.714529996138999, "longitude": 20.475550033373999 }, "geometry": { "type": "Point", "coordinates": [ 20.475550033373999, 54.714529996138999 ] } }
+]
+}

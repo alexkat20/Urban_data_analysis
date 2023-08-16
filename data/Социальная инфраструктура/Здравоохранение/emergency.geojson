@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Быстрая Помощь", "address": "Киевский пер., 1А, Калининград, Россия", "latitude": 54.681526739437999, "longitude": 20.485974365564001 }, "geometry": { "type": "Point", "coordinates": [ 20.485974365564001, 54.681526739437999 ] } },
+{ "type": "Feature", "properties": { "Name": "Новомед", "address": "ул. Фрунзе, 107", "latitude": 54.713970001188002, "longitude": 20.534059992309 }, "geometry": { "type": "Point", "coordinates": [ 20.534059992309, 54.713970001188002 ] } },
+{ "type": "Feature", "properties": { "Name": "Подстанция Скорой Медицинской Помощи", "address": "Нарвская ул., 85А", "latitude": 54.737910015852002, "longitude": 20.497050034114 }, "geometry": { "type": "Point", "coordinates": [ 20.497050034114, 54.737910015852002 ] } },
+{ "type": "Feature", "properties": { "Name": "Скорая медицинская помощь", "address": "Бородинская ул., 14А", "latitude": 54.716629998160997, "longitude": 20.469770040581999 }, "geometry": { "type": "Point", "coordinates": [ 20.469770040581999, 54.716629998160997 ] } },
+{ "type": "Feature", "properties": { "Name": "ГБУЗ Городская станция скорой медицинской помощи", "address": "ул. Мусоргского, 74А", "latitude": 54.732920017434999, "longitude": 20.502819968621999 }, "geometry": { "type": "Point", "coordinates": [ 20.502819968621999, 54.732920017434999 ] } },
+{ "type": "Feature", "properties": { "Name": "Подстанция Скорой медицинской помощи Московского района", "address": "ул. Павлика Морозова, 30", "latitude": 54.678739982042003, "longitude": 20.471680024857999 }, "geometry": { "type": "Point", "coordinates": [ 20.471680024857999, 54.678739982042003 ] } },
+{ "type": "Feature", "properties": { "Name": "Подстанция скорой медицинской помощи", "address": "ул. Дзержинского, 17, этаж 2", "latitude": 54.69736000276, "longitude": 20.519640017543001 }, "geometry": { "type": "Point", "coordinates": [ 20.519640017543001, 54.69736000276 ] } },
+{ "type": "Feature", "properties": { "Name": "Калининградская Неотложка", "address": "ул. Александра Невского, 122", "latitude": 54.743180011744997, "longitude": 20.534549998368 }, "geometry": { "type": "Point", "coordinates": [ 20.534549998368, 54.743180011744997 ] } },
+{ "type": "Feature", "properties": { "Name": "Med-Express", "address": "Правая наб., 10", "latitude": 54.708160001183003, "longitude": 20.486299991833999 }, "geometry": { "type": "Point", "coordinates": [ 20.486299991833999, 54.708160001183003 ] } },
+{ "type": "Feature", "properties": { "Name": "Автотранспортное подразделение городской станции скорой медицинской помощи", "address": "ул. Мусоргского, 74А", "latitude": 54.732920017434999, "longitude": 20.502819968621999 }, "geometry": { "type": "Point", "coordinates": [ 20.502819968621999, 54.732920017434999 ] } },
+{ "type": "Feature", "properties": { "Name": "Единая диспетчерская служба 03 г. Калининград", "address": "Школьная ул., 8, Ладушкин", "latitude": 54.683659991568, "longitude": 20.483200028763999 }, "geometry": { "type": "Point", "coordinates": [ 20.483200028763999, 54.683659991568 ] } }
+]
+}

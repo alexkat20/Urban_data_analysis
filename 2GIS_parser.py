@@ -42,8 +42,10 @@ class WebDriver:
 
         i = 1
         is_link = True
+        time.sleep(1)
         while is_link:  # <=== change this number based on your requirement
-            #  time.sleep(1)
+            if i % 5 == 0:
+                time.sleep(1)
             try:
                 WebDriverWait(self.driver, 60).until(
                     EC.presence_of_element_located(
@@ -84,7 +86,7 @@ class WebDriver:
 
 
 links = []
-services = pd.DataFrame()
+services = []
 
 print("Enter all the links you need to parser. When you finish enter 0")
 link = input()
@@ -101,11 +103,14 @@ print(file_name)
 
 for l in links:
     x = WebDriver()
-    services = x.get_number_of_places(l)
-    print(services)
+    current_services = x.get_number_of_places(l)
+    print(current_services)
+    services.append(current_services)
 
-services.to_csv(file_name + ".csv")
+final_services = pd.concat(services)
 
-gdf = gpd.GeoDataFrame(services, geometry=gpd.points_from_xy(services.longitude, services.latitude))
+final_services.to_csv(file_name + ".csv")
+
+gdf = gpd.GeoDataFrame(final_services, geometry=gpd.points_from_xy(final_services.longitude, final_services.latitude))
 
 gdf.to_file(f"{file_name}.geojson", driver="GeoJSON")

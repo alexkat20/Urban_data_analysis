@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "register_office",
+"features": [
+{ "type": "Feature", "properties": { "Name": "ЗАГС", "address": "ул. Маршала Новикова, 4", "latitude": 54.680760020706998, "longitude": 20.479830000772999 }, "geometry": { "type": "Point", "coordinates": [ 20.479830000772999, 54.680760020706998 ] } },
+{ "type": "Feature", "properties": { "Name": "Специальный отдел ЗАГС управления ЗАГС администрации городского округа г. Калининград", "address": "просп. Победы, 58", "latitude": 54.713490011502998, "longitude": 20.452129990073001 }, "geometry": { "type": "Point", "coordinates": [ 20.452129990073001, 54.713490011502998 ] } },
+{ "type": "Feature", "properties": { "Name": "ЗАГС агентство Калининградской области", "address": "Московский просп., 95, этаж 1", "latitude": 54.709819995197002, "longitude": 20.520539982487001 }, "geometry": { "type": "Point", "coordinates": [ 20.520539982487001, 54.709819995197002 ] } },
+{ "type": "Feature", "properties": { "Name": "Отдел ЗАГС администрации Гурьевского городского округа", "address": "Лесная ул., 3А, Гурьевск, этаж 2", "latitude": 54.762864604020997, "longitude": 20.503156241456001 }, "geometry": { "type": "Point", "coordinates": [ 20.503018507451404, 54.763055324998767 ] } },
+{ "type": "Feature", "properties": { "Name": "ЗАГС № 2", "address": "ул. Карла Маркса, 43", "latitude": 54.725379992614002, "longitude": 20.470639998311999 }, "geometry": { "type": "Point", "coordinates": [ 20.470639998311999, 54.725379992614002 ] } },
+{ "type": "Feature", "properties": { "Name": "Отдел ЗАГС Администрации Муниципального Образования Светловский городской округ Калининградской области", "address": "ул. Тельмана, 2, г. Светлый", "latitude": 54.730890004305003, "longitude": 20.518249962719999 }, "geometry": { "type": "Point", "coordinates": [ 20.518249962719999, 54.730890004305003 ] } },
+{ "type": "Feature", "properties": { "Name": "Отдел ЗАГС администрации Ладушкинского городского округа", "address": "ул. Победы, 25, Ладушкин", "latitude": 54.716849981209997, "longitude": 20.469789989511 }, "geometry": { "type": "Point", "coordinates": [ 20.469789989511, 54.716849981209997 ] } }
+]
+}

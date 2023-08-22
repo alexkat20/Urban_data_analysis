@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "hostel",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Fox", "address": "Барнаульская, 2Б, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.503053980434533, 54.714715117805547 ] } },
+{ "type": "Feature", "properties": { "Name": "Suffix", "address": "Дом на набережной, Маршала Баграмяна, 36, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.492555167395338, 54.708175411676415 ] } },
+{ "type": "Feature", "properties": { "Name": "Толстой", "address": "Комсомольская улица, 17, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.478459978698965, 54.723179994487765 ] } },
+{ "type": "Feature", "properties": { "Name": "Токио", "address": "Эпроновская, 4-6, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.514073836559287, 54.699846927710148 ] } },
+{ "type": "Feature", "properties": { "Name": "Самый центр", "address": "Генерала Галицкого, 1-3, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.499610034981572, 54.716029979621993 ] } },
+{ "type": "Feature", "properties": { "Name": "Kdhostel", "address": "Ленинский проспект, 1, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.500059975544019, 54.719200015402947 ] } },
+{ "type": "Feature", "properties": { "Name": "Скворечник", "address": "Эльблонгская, 18, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.496871209332504, 54.700677724756041 ] } },
+{ "type": "Feature", "properties": { "Name": "Koikago", "address": "Богдана Хмельницкого, 33-37, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.507175144052304, 54.697317612259333 ] } },
+{ "type": "Feature", "properties": { "Name": "Луиза", "address": "Ермака, 7, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.476519987209002, 54.721270010211157 ] } },
+{ "type": "Feature", "properties": { "Name": "Подмосковье", "address": "Гостиница Москва, проспект Мира, 19-21, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.48748, 54.71945 ] } },
+{ "type": "Feature", "properties": { "Name": "Hostel 2028", "address": "Гостиная, 22, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.487894498535422, 54.716766468536164 ] } },
+{ "type": "Feature", "properties": { "Name": "Amalienau", "address": "Карла Маркса, 19, Калининград" }, "geometry": { "type": "Point", "coordinates": [ 20.476800026594105, 54.726839994418839 ] } }
+]
+}

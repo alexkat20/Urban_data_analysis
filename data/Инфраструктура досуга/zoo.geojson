@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Калининградский зоопарк", "address": "просп. Мира, 26", "latitude": 54.722040013746003, "longitude": 20.486290017369001 }, "geometry": { "type": "Point", "coordinates": [ 20.486290017369001, 54.722040013746003 ] } },
+{ "type": "Feature", "properties": { "Name": "Зорро Парк", "address": "ул. Горького, 98, этаж 2", "latitude": 54.732760006903, "longitude": 20.511029958963 }, "geometry": { "type": "Point", "coordinates": [ 20.511029958963, 54.732760006903 ] } },
+{ "type": "Feature", "properties": { "Name": "Мини-зоопарк", "address": "ул. Чайковского, 37А", "latitude": 54.724446408947998, "longitude": 20.490308648298001 }, "geometry": { "type": "Point", "coordinates": [ 20.490308648298001, 54.724446408947998 ] } },
+{ "type": "Feature", "properties": { "Name": "Зоопарк", "address": "ул. 1812 года, 126", "latitude": 54.711149993684003, "longitude": 20.536749996495001 }, "geometry": { "type": "Point", "coordinates": [ 20.536749996495001, 54.711149993684003 ] } }
+]
+}

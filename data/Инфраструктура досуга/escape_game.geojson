@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Квест центр", "address": "ул. Тенистая Аллея, 28, Калининград, Россия", "latitude": 55.91417, "longitude": 37.82556 }, "geometry": { "type": "Point", "coordinates": [ 37.82556, 55.91417 ] } },
+{ "type": "Feature", "properties": { "Name": "Квестополис", "address": "ул. Мусоргского, 19, этаж цокольный", "latitude": 54.728030015122002, "longitude": 20.500609996030001 }, "geometry": { "type": "Point", "coordinates": [ 20.500609996030001, 54.728030015122002 ] } },
+{ "type": "Feature", "properties": { "Name": "Онмозгофф", "address": "Ленинский просп., 1, этаж 5", "latitude": 54.719200015402997, "longitude": 20.500059975544001 }, "geometry": { "type": "Point", "coordinates": [ 20.500059975544001, 54.719200015402997 ] } },
+{ "type": "Feature", "properties": { "Name": "Квестополис", "address": "ул. Литовский Вал, 87Б, этаж 1", "latitude": 54.708029997864998, "longitude": 20.540490001692 }, "geometry": { "type": "Point", "coordinates": [ 20.540490001692, 54.708029997864998 ] } },
+{ "type": "Feature", "properties": { "Name": "Склад квестов", "address": "Клиническая ул., 83", "latitude": 54.720370003357999, "longitude": 20.522790020574998 }, "geometry": { "type": "Point", "coordinates": [ 20.522790020574998, 54.720370003357999 ] } },
+{ "type": "Feature", "properties": { "Name": "Форт Боярд", "address": "ул. Дзержинского, 31", "latitude": 54.696490003119997, "longitude": 20.523729967196999 }, "geometry": { "type": "Point", "coordinates": [ 20.523729967196999, 54.696490003119997 ] } },
+{ "type": "Feature", "properties": { "Name": "Твой квест", "address": "Коммунальная ул., 4, этаж -1", "latitude": 54.722170017064997, "longitude": 20.470070028896 }, "geometry": { "type": "Point", "coordinates": [ 20.470070028896, 54.722170017064997 ] } },
+{ "type": "Feature", "properties": { "Name": "Квесты на Литовском", "address": "ул. Литовский Вал, 87Б", "latitude": 54.708029997864998, "longitude": 20.540490001692 }, "geometry": { "type": "Point", "coordinates": [ 20.540490001692, 54.708029997864998 ] } },
+{ "type": "Feature", "properties": { "Name": "Форт Боярд", "address": "ул. Горького, 83", "latitude": 54.730499994349998, "longitude": 20.507850032535998 }, "geometry": { "type": "Point", "coordinates": [ 20.507850032535998, 54.730499994349998 ] } },
+{ "type": "Feature", "properties": { "Name": "Квестория", "address": "Больничная ул., 42, офис 211", "latitude": 54.711600018064999, "longitude": 20.503009986367001 }, "geometry": { "type": "Point", "coordinates": [ 20.503009986367001, 54.711600018064999 ] } },
+{ "type": "Feature", "properties": { "Name": "Cosmoквест", "address": "ул. Чкалова, 2", "latitude": 54.723359995857997, "longitude": 20.459849974354999 }, "geometry": { "type": "Point", "coordinates": [ 20.459849974354999, 54.723359995857997 ] } },
+{ "type": "Feature", "properties": { "Name": "Лаборатория квестов", "address": "Гвардейский просп., 22", "latitude": 54.713390015397998, "longitude": 20.490680039156999 }, "geometry": { "type": "Point", "coordinates": [ 20.490680039156999, 54.713390015397998 ] } },
+{ "type": "Feature", "properties": { "Name": "Юный гид", "address": "Московский просп., 62", "latitude": 54.708309995340002, "longitude": 20.519199967626001 }, "geometry": { "type": "Point", "coordinates": [ 20.519199967626001, 54.708309995340002 ] } },
+{ "type": "Feature", "properties": { "Name": "Форт Боярд", "address": "Ялтинская ул., 66, этаж 3", "latitude": 54.704359981559001, "longitude": 20.554690035318 }, "geometry": { "type": "Point", "coordinates": [ 20.554690035318, 54.704359981559001 ] } },
+{ "type": "Feature", "properties": { "Name": "Zaga-Game", "address": "ул. Маршала Жукова, 3, этаж 2", "latitude": 54.750184691976003, "longitude": 20.491586263793 }, "geometry": { "type": "Point", "coordinates": [ 20.491586263793, 54.750184691976003 ] } },
+{ "type": "Feature", "properties": { "Name": "Вандерлэнд", "address": "ул. Аксакова, 137", "latitude": 54.711559994478002, "longitude": 20.585699975762999 }, "geometry": { "type": "Point", "coordinates": [ 20.585699975762999, 54.711559994478002 ] } },
+{ "type": "Feature", "properties": { "Name": "Anvio", "address": "Московский просп., 257, этаж 3", "latitude": 54.707969983437998, "longitude": 20.580950035053 }, "geometry": { "type": "Point", "coordinates": [ 20.580950035053, 54.707969983437998 ] } },
+{ "type": "Feature", "properties": { "Name": "Wonderland", "address": "ул. Гайдара, 116, этаж цокольный", "latitude": 54.742740003738, "longitude": 20.500770006562 }, "geometry": { "type": "Point", "coordinates": [ 20.500770006562, 54.742740003738 ] } }
+]
+}

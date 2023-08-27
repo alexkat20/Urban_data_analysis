@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "ФОК Пионер", "address": "Бассейная ул., 46", "latitude": 54.720318229482999, "longitude": 20.453037558813001 }, "geometry": { "type": "Point", "coordinates": [ 20.453037558813001, 54.720318229482999 ] } },
+{ "type": "Feature", "properties": { "Name": "Трудовые резервы", "address": "ул. Горького, 83", "latitude": 54.730499994349998, "longitude": 20.507850032535998 }, "geometry": { "type": "Point", "coordinates": [ 20.507850032535998, 54.730499994349998 ] } },
+{ "type": "Feature", "properties": { "Name": "СанТермо", "address": "ул. Менделеева, 61А", "latitude": 54.722849998960001, "longitude": 20.437880000303 }, "geometry": { "type": "Point", "coordinates": [ 20.437880000303, 54.722849998960001 ] } },
+{ "type": "Feature", "properties": { "Name": "SkyPark", "address": "Валдайская ул., 9, этаж 2", "latitude": 54.755234990620998, "longitude": 20.498240012907999 }, "geometry": { "type": "Point", "coordinates": [ 20.498240012907999, 54.755234990620998 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр уличного баскетбола", "address": "Майская ул., 4", "latitude": 54.675870018395003, "longitude": 20.553499972706 }, "geometry": { "type": "Point", "coordinates": [ 20.553499972706, 54.675870018395003 ] } },
+{ "type": "Feature", "properties": { "Name": "Фитнес студия EMS тренировок", "address": "ул. Горького, 83/1", "latitude": 54.730699986559998, "longitude": 20.509609980745999 }, "geometry": { "type": "Point", "coordinates": [ 20.509609980745999, 54.730699986559998 ] } },
+{ "type": "Feature", "properties": { "Name": "Спартак", "address": "Камская ул., 2Б, корп. 4, этаж 2", "latitude": 54.681169979590997, "longitude": 20.456999959636999 }, "geometry": { "type": "Point", "coordinates": [ 20.456999959636999, 54.681169979590997 ] } },
+{ "type": "Feature", "properties": { "Name": "Форвард", "address": "ул. Тельмана, 3", "latitude": 54.728970003653998, "longitude": 20.515990033986 }, "geometry": { "type": "Point", "coordinates": [ 20.515990033986, 54.728970003653998 ] } },
+{ "type": "Feature", "properties": { "Name": "Адреналин", "address": "Пролетарская ул., 118", "latitude": 54.724154552085999, "longitude": 20.515626173634001 }, "geometry": { "type": "Point", "coordinates": [ 20.515626173634001, 54.724154552085999 ] } },
+{ "type": "Feature", "properties": { "Name": "Калининградский клуб картинга", "address": "Холмогорская ул., 34", "latitude": 54.704129982136003, "longitude": 20.572429998113002 }, "geometry": { "type": "Point", "coordinates": [ 20.572429998113002, 54.704129982136003 ] } },
+{ "type": "Feature", "properties": { "Name": "Райдер плюс", "address": "Батальная ул., 18, этаж 2", "latitude": 54.678179987090999, "longitude": 20.495440038152001 }, "geometry": { "type": "Point", "coordinates": [ 20.495440038152001, 54.678179987090999 ] } },
+{ "type": "Feature", "properties": { "Name": "Агидель", "address": "ул. Олега Кошевого, 34А", "latitude": 54.673330008366001, "longitude": 20.508919982477 }, "geometry": { "type": "Point", "coordinates": [ 20.508919982477, 54.673330008366001 ] } },
+{ "type": "Feature", "properties": { "Name": "Зумба Дом", "address": "ул. Аксакова, 112", "latitude": 54.709709982718003, "longitude": 20.582200028273 }, "geometry": { "type": "Point", "coordinates": [ 20.582200028273, 54.709709982718003 ] } },
+{ "type": "Feature", "properties": { "Name": "База чудес", "address": "Яблочная ул., 3А, корп. 1, этаж 2", "latitude": 54.689929990419003, "longitude": 20.534689976151 }, "geometry": { "type": "Point", "coordinates": [ 20.534689976151, 54.689929990419003 ] } }
+]
+}

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Синема парк", "address": "ул. Профессора Баранова, 40, ТРЦ «Европа», этаж 3-й", "latitude": 54.718599996864, "longitude": 20.499109970637999 }, "geometry": { "type": "Point", "coordinates": [ 20.499109970637999, 54.718599996864 ] } },
+{ "type": "Feature", "properties": { "Name": "КАРО 7 Калининград плаза", "address": "Ленинский просп., 30, ТРЦ Калининград Плаза", "latitude": 54.711210008110001, "longitude": 20.508229984206999 }, "geometry": { "type": "Point", "coordinates": [ 20.508229984206999, 54.711210008110001 ] } },
+{ "type": "Feature", "properties": { "Name": "Киносфера", "address": "ул. Генерала Челнокова, 11, ТЦ Экватор", "latitude": 54.738030002796002, "longitude": 20.486049959662001 }, "geometry": { "type": "Point", "coordinates": [ 20.486049959662001, 54.738030002796002 ] } },
+{ "type": "Feature", "properties": { "Name": "Эпицентр", "address": "ул. Горького, 2, подъезд 1", "latitude": 54.721559982152002, "longitude": 20.509249978004998 }, "geometry": { "type": "Point", "coordinates": [ 20.509249978004998, 54.721559982152002 ] } },
+{ "type": "Feature", "properties": { "Name": "Люмен", "address": "Московский просп., 257, ТЦ Гиант, этаж 3", "latitude": 54.70768, "longitude": 20.57871 }, "geometry": { "type": "Point", "coordinates": [ 20.57871, 54.70768 ] } },
+{ "type": "Feature", "properties": { "Name": "Киноленд", "address": "Киевская ул., 71, этаж 1", "latitude": 54.681409995388996, "longitude": 20.482510030494002 }, "geometry": { "type": "Point", "coordinates": [ 20.482510030494002, 54.681409995388996 ] } },
+{ "type": "Feature", "properties": { "Name": "Эпицентр", "address": "ул. Профессора Баранова, 30, этаж 4", "latitude": 54.721619996577999, "longitude": 20.509179989113001 }, "geometry": { "type": "Point", "coordinates": [ 20.509179989113001, 54.721619996577999 ] } },
+{ "type": "Feature", "properties": { "Name": "Silver Cinema", "address": "Калининградская область, Гурьевский муниципальный округ, Приморское кольцо, 2, ТРЦ «Балтия Молл»", "latitude": 54.70649, "longitude": 20.51095 }, "geometry": { "type": "Point", "coordinates": [ 20.51095, 54.70649 ] } },
+{ "type": "Feature", "properties": { "Name": "Кино хауз", "address": "Советский просп., 112А", "latitude": 54.737639992840997, "longitude": 20.480880001784001 }, "geometry": { "type": "Point", "coordinates": [ 20.480880001784001, 54.737639992840997 ] } },
+{ "type": "Feature", "properties": { "Name": "5D Cinema", "address": "площадь Победы, 10, этаж 2", "latitude": 54.719599999822002, "longitude": 20.503890002380999 }, "geometry": { "type": "Point", "coordinates": [ 20.503890002380999, 54.719599999822002 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр культуры и досуга", "address": "Калининградское ш., 4А, Гурьевск", "latitude": 54.669909982322999, "longitude": 20.429760031602001 }, "geometry": { "type": "Point", "coordinates": [ 20.429760031602001, 54.669909982322999 ] } },
+{ "type": "Feature", "properties": { "Name": "КАРО Family", "address": "Ленинский просп., 30", "latitude": 54.711210008110001, "longitude": 20.508229984206999 }, "geometry": { "type": "Point", "coordinates": [ 20.508229984206999, 54.711210008110001 ] } },
+{ "type": "Feature", "properties": { "Name": "Вестсайд", "address": "ул. Космонавта Леонова, 22", "latitude": 54.725919996725999, "longitude": 20.482450016068 }, "geometry": { "type": "Point", "coordinates": [ 20.482450016068, 54.725919996725999 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр Культуры и Досуга", "address": "Калининградское ш., 1, Гурьевск", "latitude": 54.670329999491003, "longitude": 20.432000011406998 }, "geometry": { "type": "Point", "coordinates": [ 20.432000011406998, 54.670329999491003 ] } }
+]
+}

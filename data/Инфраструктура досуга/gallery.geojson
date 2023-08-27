@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Калининградский областной музей изобразительных искусств", "address": "Ленинский просп., 83", "latitude": 54.705150017843003, "longitude": 20.506840013203998 }, "geometry": { "type": "Point", "coordinates": [ 20.506840013203998, 54.705150017843003 ] } },
+{ "type": "Feature", "properties": { "Name": "Галерея янтарных картин", "address": "Октябрьская ул., 57", "latitude": 54.700200001104001, "longitude": 20.520040001961998 }, "geometry": { "type": "Point", "coordinates": [ 20.520040001961998, 54.700200001104001 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр творчества Музея изобразительных искусств", "address": "Ленинский просп., 83", "latitude": 54.705150017843003, "longitude": 20.506840013203998 }, "geometry": { "type": "Point", "coordinates": [ 20.506840013203998, 54.705150017843003 ] } }
+]
+}

@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "clinic",
 "features": [
 { "type": "Feature", "properties": { "Name": "Хорошая поликлиника", "address": "Ленинский просп., 83В", "latitude": 54.704109991297003, "longitude": 20.508599961413001 }, "geometry": { "type": "Point", "coordinates": [ 20.508599961413001, 54.704109991297003 ] } },
 { "type": "Feature", "properties": { "Name": "Алмед", "address": "ул. Горького, 170, этаж 1", "latitude": 54.749179987585997, "longitude": 20.501650022576001 }, "geometry": { "type": "Point", "coordinates": [ 20.501650022576001, 54.749179987585997 ] } },
@@ -66,7 +67,6 @@
 { "type": "Feature", "properties": { "Name": "АРС медика", "address": "Бассейная ул., 38, Калининград", "latitude": 54.718699992969, "longitude": 20.453270012724001 }, "geometry": { "type": "Point", "coordinates": [ 20.453270012724001, 54.718699992969 ] } },
 { "type": "Feature", "properties": { "Name": "ЕваМария", "address": "ул. Радищева, 80А, Калининград", "latitude": 54.712729982432002, "longitude": 20.458439970602001 }, "geometry": { "type": "Point", "coordinates": [ 20.458439970602001, 54.712729982432002 ] } },
 { "type": "Feature", "properties": { "Name": "Skin Clinic", "address": "ул. Лёни Голикова, 4, Калининград, помещение XVIII", "latitude": 54.731820018371003, "longitude": 20.516739962862999 }, "geometry": { "type": "Point", "coordinates": [ 20.516739962862999, 54.731820018371003 ] } },
-{ "type": "Feature", "properties": { "Name": "МедЛюкс", "address": "ул. Липовая Аллея, 3А, Калининград", "latitude": 55.91417, "longitude": 37.82556 }, "geometry": { "type": "Point", "coordinates": [ 37.82556, 55.91417 ] } },
 { "type": "Feature", "properties": { "Name": "Terve", "address": "ул. Сержанта Колоскова, 12, Калининград, офис 10", "latitude": 54.715929983517, "longitude": 20.484650014193999 }, "geometry": { "type": "Point", "coordinates": [ 20.484650014193999, 54.715929983517 ] } },
 { "type": "Feature", "properties": { "Name": "Эскулап", "address": "ул. Генерала Раевского, 4, Калининград, помещение 21", "latitude": 54.748879999270997, "longitude": 20.532029979179001 }, "geometry": { "type": "Point", "coordinates": [ 20.532029979179001, 54.748879999270997 ] } },
 { "type": "Feature", "properties": { "Name": "АМД Лаборатории", "address": "Балашовская ул., 5, Калининград, этаж 1, помещение 10А", "latitude": 54.706209993319, "longitude": 20.568459993493001 }, "geometry": { "type": "Point", "coordinates": [ 20.568459993493001, 54.706209993319 ] } },

@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Центр занятости населения Калининградской области", "address": "Калязинская ул., 5А", "latitude": 54.727415562491998, "longitude": 20.506222983541001 }, "geometry": { "type": "Point", "coordinates": [ 20.506222983541001, 54.727415562491998 ] } }
+]
+}

@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Центральный рынок", "address": "ул. Черняховского, 15", "latitude": 54.720459983087999, "longitude": 20.510680014504999 }, "geometry": { "type": "Point", "coordinates": [ 20.510680014504999, 54.720459983087999 ] } },
+{ "type": "Feature", "properties": { "Name": "Сельма", "address": "ул. Генерала Челнокова, 11", "latitude": 54.738030002796002, "longitude": 20.486049959662001 }, "geometry": { "type": "Point", "coordinates": [ 20.486049959662001, 54.738030002796002 ] } },
+{ "type": "Feature", "properties": { "Name": "Фермерский двор", "address": "Московский просп., 171А, этаж 1", "latitude": 54.710589998732999, "longitude": 20.542910024777001 }, "geometry": { "type": "Point", "coordinates": [ 20.542910024777001, 54.710589998732999 ] } },
+{ "type": "Feature", "properties": { "Name": "Ярмарка Европа", "address": "Театральная ул., 30", "latitude": 54.717749988062998, "longitude": 20.498990025604002 }, "geometry": { "type": "Point", "coordinates": [ 20.498990025604002, 54.717749988062998 ] } },
+{ "type": "Feature", "properties": { "Name": "Захаровский рынок", "address": "ул. Генерал-Лейтенанта Захарова, 2", "latitude": 54.735120015561002, "longitude": 20.472200038131 }, "geometry": { "type": "Point", "coordinates": [ 20.472200038131, 54.735120015561002 ] } },
+{ "type": "Feature", "properties": { "Name": "Московский", "address": "ул. Дзержинского, 79", "latitude": 54.684640003687001, "longitude": 20.535000022750001 }, "geometry": { "type": "Point", "coordinates": [ 20.535000022750001, 54.684640003687001 ] } },
+{ "type": "Feature", "properties": { "Name": "Южный рынок", "address": "Интернациональная ул., 30", "latitude": 54.668830016008002, "longitude": 20.501130009303001 }, "geometry": { "type": "Point", "coordinates": [ 20.501130009303001, 54.668830016008002 ] } },
+{ "type": "Feature", "properties": { "Name": "Московский рынок", "address": "ул. Дзержинского, 79", "latitude": 54.684640003687001, "longitude": 20.535000022750001 }, "geometry": { "type": "Point", "coordinates": [ 20.535000022750001, 54.684640003687001 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтийский дом", "address": "Интернациональная ул., 30, этаж 1", "latitude": 54.668830016008002, "longitude": 20.501130009303001 }, "geometry": { "type": "Point", "coordinates": [ 20.501130009303001, 54.668830016008002 ] } },
+{ "type": "Feature", "properties": { "Name": "Южный рынок", "address": "ул. Генерал-Лейтенанта Захарова, 2Д", "latitude": 54.735839979133999, "longitude": 20.469680018942 }, "geometry": { "type": "Point", "coordinates": [ 20.469680018942, 54.735839979133999 ] } },
+{ "type": "Feature", "properties": { "Name": "Овощи и фрукты", "address": "Интернациональная ул., 30", "latitude": 54.668830016008002, "longitude": 20.501130009303001 }, "geometry": { "type": "Point", "coordinates": [ 20.501130009303001, 54.668830016008002 ] } },
+{ "type": "Feature", "properties": { "Name": "Южный", "address": "Партизанская ул., 2Б", "latitude": 54.721630012953, "longitude": 20.511249983921001 }, "geometry": { "type": "Point", "coordinates": [ 20.511249983921001, 54.721630012953 ] } }
+]
+}

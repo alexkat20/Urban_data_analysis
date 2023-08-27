@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "military_kom",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Военкомат", "address": "ул. Сергея Тюленина, 21", "latitude": 54.710129999886, "longitude": 20.521280020717999 }, "geometry": { "type": "Point", "coordinates": [ 20.521280020717999, 54.710129999886 ] } },
+{ "type": "Feature", "properties": { "Name": "Военный комиссариат", "address": "ул. Сергея Тюленина, 19", "latitude": 54.710459995413999, "longitude": 20.521299969647998 }, "geometry": { "type": "Point", "coordinates": [ 20.521299969647998, 54.710459995413999 ] } },
+{ "type": "Feature", "properties": { "Name": "Военный комиссариат г. Калининграда", "address": "Советский просп., 192", "latitude": 54.745039997969002, "longitude": 20.466549964839 }, "geometry": { "type": "Point", "coordinates": [ 20.466549964839, 54.745039997969002 ] } },
+{ "type": "Feature", "properties": { "Name": "Военная комендатура", "address": "Артиллерийская ул., 17", "latitude": 54.732619987211002, "longitude": 20.539920032276001 }, "geometry": { "type": "Point", "coordinates": [ 20.539920032276001, 54.732619987211002 ] } },
+{ "type": "Feature", "properties": { "Name": "Военный комиссариат Калининградской области", "address": "Озёрная ул., 29", "latitude": 54.741800015206003, "longitude": 20.428450023955001 }, "geometry": { "type": "Point", "coordinates": [ 20.428287956602059, 54.741811088246408 ] } },
+{ "type": "Feature", "properties": { "Name": "Городской военкомат", "address": "Советский просп., 196", "latitude": 54.745400000711001, "longitude": 20.465749996 }, "geometry": { "type": "Point", "coordinates": [ 20.465749996, 54.745400000711001 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр военно-врачебной экспертизы Военного комиссариата Калининградской области", "address": "Советский просп., 200", "latitude": 54.746020010088998, "longitude": 20.46430001057 }, "geometry": { "type": "Point", "coordinates": [ 20.46430001057, 54.746020010088998 ] } },
+{ "type": "Feature", "properties": { "Name": "Сборный пункт по Калининградской области", "address": "Советский просп., 200", "latitude": 54.746020010088998, "longitude": 20.46430001057 }, "geometry": { "type": "Point", "coordinates": [ 20.46430001057, 54.746020010088998 ] } }
+]
+}

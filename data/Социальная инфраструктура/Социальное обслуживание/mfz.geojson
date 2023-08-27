@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "МФЦ Мои документы", "address": "площадь Победы, 1", "latitude": 54.719250013455003, "longitude": 20.500440011034001 }, "geometry": { "type": "Point", "coordinates": [ 20.500440011034001, 54.719250013455003 ] } },
+{ "type": "Feature", "properties": { "Name": "МФЦ Мои документы", "address": "ул. Генерала Челнокова, 11, этаж 4", "latitude": 54.738030002796002, "longitude": 20.486049959662001 }, "geometry": { "type": "Point", "coordinates": [ 20.486049959662001, 54.738030002796002 ] } },
+{ "type": "Feature", "properties": { "Name": "МФЦ Мои документы", "address": "Клиническая ул., 83А", "latitude": 54.719599999822002, "longitude": 20.52240001062 }, "geometry": { "type": "Point", "coordinates": [ 20.52240001062, 54.719599999822002 ] } },
+{ "type": "Feature", "properties": { "Name": "МФЦ Мои документы", "address": "Уральская ул., 18, этаж 4", "latitude": 54.724629979917999, "longitude": 20.502070039745 }, "geometry": { "type": "Point", "coordinates": [ 20.502070039745, 54.724629979917999 ] } },
+{ "type": "Feature", "properties": { "Name": "МФЦ Мои документы", "address": "ул. Николая Карамзина, 42, этаж 4", "latitude": 54.666292724706999, "longitude": 20.510619073744 }, "geometry": { "type": "Point", "coordinates": [ 20.510619073744, 54.666292724706999 ] } },
+{ "type": "Feature", "properties": { "Name": "МФЦ Мои документы", "address": "Инженерная ул., 3", "latitude": 54.682720003036003, "longitude": 20.491010034685999 }, "geometry": { "type": "Point", "coordinates": [ 20.491010034685999, 54.682720003036003 ] } },
+{ "type": "Feature", "properties": { "Name": "МФЦ центр поддержки предпринимательства", "address": "Уральская ул., 18, этаж 4", "latitude": 54.724629979917999, "longitude": 20.502070039745 }, "geometry": { "type": "Point", "coordinates": [ 20.502070039745, 54.724629979917999 ] } },
+{ "type": "Feature", "properties": { "Name": "МФЦ Мои документы", "address": "Лесная ул., 5В, Гурьевск", "latitude": 54.747830431299001, "longitude": 20.44829310391 }, "geometry": { "type": "Point", "coordinates": [ 20.44829310391, 54.747830431299001 ] } }
+]
+}

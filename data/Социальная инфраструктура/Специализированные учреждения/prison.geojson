@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "prison",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Исправительная колония №8", "address": "Проспект Победы, 205, Калининград", "latitude": 54.711540003638504, "longitude": 20.427849963506617 }, "geometry": { "type": "Point", "coordinates": [ 20.427849963506617, 54.711540003638504 ] } },
+{ "type": "Feature", "properties": { "Name": "Исправительная колония-9", "address": "Советский проспект, 109, Калининград", "latitude": 54.739420015709214, "longitude": 20.474679991823933 }, "geometry": { "type": "Point", "coordinates": [ 20.476267063450624, 54.739914278139786 ] } },
+{ "type": "Feature", "properties": { "Name": "Отдел по конвоированию", "address": "Александра Невского, 192, Калининград", "latitude": 54.749601517722255, "longitude": 20.539103754521282 }, "geometry": { "type": "Point", "coordinates": [ 20.540608746121467, 54.750190149732603 ] } }
+]
+}

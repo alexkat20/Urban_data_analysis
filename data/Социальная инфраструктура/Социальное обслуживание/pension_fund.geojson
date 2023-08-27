@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "pension_fund",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Клиентская служба Социального фонда РФ", "address": "ул. 9 Апреля, 32А, Калининград", "latitude": 54.713970001188002, "longitude": 20.523090008890001 }, "geometry": { "type": "Point", "coordinates": [ 20.523019732088855, 54.71399514570372 ] } },
+{ "type": "Feature", "properties": { "Name": "Социальный фонд России", "address": "Сосновая ул., 2, Калининград, подъезд 1", "latitude": 54.679400015006998, "longitude": 20.468179993549001 }, "geometry": { "type": "Point", "coordinates": [ 20.468179993549001, 54.679400015006998 ] } },
+{ "type": "Feature", "properties": { "Name": "Социальный фонд России", "address": "ул. Космонавта Леонова, 8, Калининград, этаж 2", "latitude": 54.722179991529003, "longitude": 20.483289966585001 }, "geometry": { "type": "Point", "coordinates": [ 20.483289966585001, 54.722179991529003 ] } },
+{ "type": "Feature", "properties": { "Name": "Социальный фонд России", "address": "ул. Энгельса, 54, Калининград", "latitude": 54.722049988210998, "longitude": 20.460650027012999 }, "geometry": { "type": "Point", "coordinates": [ 20.460650027012999, 54.722049988210998 ] } },
+{ "type": "Feature", "properties": { "Name": "Социальный фонд России", "address": "Советский просп., 18, Калининград, этаж 5", "latitude": 54.723989979701003, "longitude": 20.499409958952999 }, "geometry": { "type": "Point", "coordinates": [ 20.499409958952999, 54.723989979701003 ] } },
+{ "type": "Feature", "properties": { "Name": "Центр социального обеспечения военного комиссариата Калининградской области", "address": "Малоярославская ул., 15, Калининград", "latitude": 54.722029997371997, "longitude": 20.550309987995 }, "geometry": { "type": "Point", "coordinates": [ 20.550309987995, 54.722029997371997 ] } },
+{ "type": "Feature", "properties": { "Name": "Пенсионный фонд России", "address": "ул. Чайковского, 2, Калининград, этаж 3", "latitude": 54.724140015768, "longitude": 20.497799962990999 }, "geometry": { "type": "Point", "coordinates": [ 20.497799962990999, 54.724140015768 ] } },
+{ "type": "Feature", "properties": { "Name": "Социальный фонд России", "address": "Советский просп., 155, Калининград, этаж 2, 3", "latitude": 54.743299998688997, "longitude": 20.468100030193 }, "geometry": { "type": "Point", "coordinates": [ 20.468091425597439, 54.743468044190429 ] } },
+{ "type": "Feature", "properties": { "Name": "Социальный фонд России", "address": "Калининградская ул., 10, Гвардейск, комната 6", "latitude": 54.717660008332999, "longitude": 20.496170018099001 }, "geometry": { "type": "Point", "coordinates": [ 20.496170018099001, 54.717660008332999 ] } }
+]
+}

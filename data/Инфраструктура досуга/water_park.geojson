@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Аистово", "address": "ул. Олега Кошевого, 13, Калининград, этаж цокольный", "latitude": 54.674310020485002, "longitude": 20.513140019268 }, "geometry": { "type": "Point", "coordinates": [ 20.513140019268, 54.674310020485002 ] } },
+{ "type": "Feature", "properties": { "Name": "Посейдон", "address": "Луговой пер., 6В, поселок Лесное", "latitude": 54.634444641298998, "longitude": 20.553157775481001 }, "geometry": { "type": "Point", "coordinates": [ 20.553157775481001, 54.634444641298998 ] } }
+]
+}

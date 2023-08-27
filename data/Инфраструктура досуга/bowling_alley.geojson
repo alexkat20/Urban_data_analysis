@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Клуб Манхэттен", "address": "ул. Гайдара, 136, этаж 3", "latitude": 54.743820011962001, "longitude": 20.509530017389999 }, "geometry": { "type": "Point", "coordinates": [ 20.509530017389999, 54.743820011962001 ] } },
+{ "type": "Feature", "properties": { "Name": "Эпицентр", "address": "ул. Профессора Баранова, 30, этаж 4", "latitude": 54.721619996577999, "longitude": 20.509179989113001 }, "geometry": { "type": "Point", "coordinates": [ 20.509179989113001, 54.721619996577999 ] } },
+{ "type": "Feature", "properties": { "Name": "Bowling", "address": "ул. Горького, 2, подъезд 1", "latitude": 54.721559982152002, "longitude": 20.509249978004998 }, "geometry": { "type": "Point", "coordinates": [ 20.509249978004998, 54.721559982152002 ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Арт-пространство Ворота", "address": "ул. Литовский Вал, 61", "latitude": 54.709589995774003, "longitude": 20.538169974712002 }, "geometry": { "type": "Point", "coordinates": [ 20.538169974712002, 54.709589995774003 ] } },
+{ "type": "Feature", "properties": { "Name": "Art Cluster", "address": "ул. Каштановая Аллея, 1А", "latitude": 54.752321407369003, "longitude": 20.450535725999 }, "geometry": { "type": "Point", "coordinates": [ 20.450535725999, 54.752321407369003 ] } }
+]
+}

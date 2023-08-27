@@ -47,7 +47,7 @@ class WebDriver:
             if i % 5 == 0:
                 time.sleep(1)
             try:
-                WebDriverWait(self.driver, 60).until(
+                WebDriverWait(self.driver, 10).until(
                     EC.presence_of_element_located(
                         (By.XPATH, f'(//a[contains(@class,"search-business-snippet-view__address")])')
                     )

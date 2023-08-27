@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Zажигалка", "address": "Ольштынская, 1, Калининград", "latitude": 54.696099993165632, "longitude": 20.503660002957872 }, "geometry": { "type": "Point", "coordinates": [ 20.503660002957872, 54.696099993165632 ] } },
+{ "type": "Feature", "properties": { "Name": "Мышки", "address": "Маршала Жукова, 3, Калининград", "latitude": 54.750184691975704, "longitude": 20.491586263793426 }, "geometry": { "type": "Point", "coordinates": [ 20.491586263793426, 54.750184691975704 ] } },
+{ "type": "Feature", "properties": { "Name": "Clever fox", "address": "Аксакова, 104, Калининград", "latitude": 54.711030006739804, "longitude": 20.581520004468757 }, "geometry": { "type": "Point", "coordinates": [ 20.581520004468757, 54.711030006739804 ] } },
+{ "type": "Feature", "properties": { "Name": "Holiday", "address": "Виктора Денисова, 12, Калининград", "latitude": 54.713609998446714, "longitude": 20.582029959457941 }, "geometry": { "type": "Point", "coordinates": [ 20.582029959457941, 54.713609998446714 ] } },
+{ "type": "Feature", "properties": { "Name": "Юность", "address": "Тельмана, 3, Калининград", "latitude": 54.728970003653757, "longitude": 20.515990033986043 }, "geometry": { "type": "Point", "coordinates": [ 20.515990033986043, 54.728970003653757 ] } },
+{ "type": "Feature", "properties": { "Name": "Зорропарк", "address": "Улица Горького, 98, Калининград", "latitude": 54.732760006903106, "longitude": 20.511029958962951 }, "geometry": { "type": "Point", "coordinates": [ 20.511029958962951, 54.732760006903106 ] } },
+{ "type": "Feature", "properties": { "Name": "Тридевятое королевство", "address": "Юбилейная, 18, Калининград", "latitude": 54.7184635293737, "longitude": 20.537880136995039 }, "geometry": { "type": "Point", "coordinates": [ 20.537880136995039, 54.7184635293737 ] } }
+]
+}

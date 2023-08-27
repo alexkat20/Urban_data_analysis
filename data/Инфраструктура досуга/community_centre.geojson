@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Областной дом народного творчества", "address": "ул. Профессора Баранова, 45", "latitude": 54.720380019731998, "longitude": 20.505160028350002 }, "geometry": { "type": "Point", "coordinates": [ 20.505160028350002, 54.720380019731998 ] } },
+{ "type": "Feature", "properties": { "Name": "Янтарь", "address": "Судостроительная ул., 2", "latitude": 54.680980003755998, "longitude": 20.483930008710999 }, "geometry": { "type": "Point", "coordinates": [ 20.483930008710999, 54.680980003755998 ] } },
+{ "type": "Feature", "properties": { "Name": "Дворец творчества детей и молодежи", "address": "ул. Сергеева, 10", "latitude": 54.717590019440998, "longitude": 20.518169999364002 }, "geometry": { "type": "Point", "coordinates": [ 20.518169999364002, 54.717590019440998 ] } },
+{ "type": "Feature", "properties": { "Name": "Дворец творчества детей и молодежи", "address": "ул. Сергеева, 10, этаж 1", "latitude": 54.717590019440998, "longitude": 20.518169999364002 }, "geometry": { "type": "Point", "coordinates": [ 20.518169999364002, 54.717590019440998 ] } },
+{ "type": "Feature", "properties": { "Name": "Дом Искусств", "address": "Ленинский просп., 155", "latitude": 54.696730018917997, "longitude": 20.501650022576001 }, "geometry": { "type": "Point", "coordinates": [ 20.501650022576001, 54.696730018917997 ] } },
+{ "type": "Feature", "properties": { "Name": "Областной центр культуры молодежи", "address": "Бассейная ул., 42", "latitude": 54.720309988931, "longitude": 20.453349976079998 }, "geometry": { "type": "Point", "coordinates": [ 20.453349976079998, 54.720309988931 ] } },
+{ "type": "Feature", "properties": { "Name": "МАУДО Дом детского творчества Родник", "address": "Нефтяная ул., 2", "latitude": 54.713709994551998, "longitude": 20.455230036962 }, "geometry": { "type": "Point", "coordinates": [ 20.455230036962, 54.713709994551998 ] } },
+{ "type": "Feature", "properties": { "Name": "МАУДО ДДТ Родник", "address": "ул. Менделеева, 17", "latitude": 54.714879982505998, "longitude": 20.436620032617999 }, "geometry": { "type": "Point", "coordinates": [ 20.436620032617999, 54.714879982505998 ] } },
+{ "type": "Feature", "properties": { "Name": "Музей детского движения", "address": "ул. Сергеева, 10, этаж 4, комната 63", "latitude": 54.717590019440998, "longitude": 20.518169999364002 }, "geometry": { "type": "Point", "coordinates": [ 20.518169999364002, 54.717590019440998 ] } }
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "Генконсульство Германии", "address": "ул. Тельмана, 14", "latitude": 54.732439985840003, "longitude": 20.519870016965999 }, "geometry": { "type": "Point", "coordinates": [ 20.519870016965999, 54.732439985840003 ] } },
+{ "type": "Feature", "properties": { "Name": "Генеральное консульство Литовской Республики", "address": "Пролетарская ул., 133", "latitude": 54.725490005093, "longitude": 20.513960020856 }, "geometry": { "type": "Point", "coordinates": [ 20.513960020856, 54.725490005093 ] } },
+{ "type": "Feature", "properties": { "Name": "Генеральное консульство Республики Польша", "address": "ул. Каштановая Аллея, 51", "latitude": 54.749760015284998, "longitude": 20.444890037385999 }, "geometry": { "type": "Point", "coordinates": [ 20.444890037385999, 54.749760015284998 ] } },
+{ "type": "Feature", "properties": { "Name": "Отделение Посольства Республики Беларусь", "address": "ул. Дмитрия Донского, 35А", "latitude": 54.714599985031001, "longitude": 20.470460038851002 }, "geometry": { "type": "Point", "coordinates": [ 20.470460038851002, 54.714599985031001 ] } },
+{ "type": "Feature", "properties": { "Name": "Почётное консульство Республики Армения", "address": "ул. Герцена, 1Д", "latitude": 54.746439985347003, "longitude": 20.522249974554001 }, "geometry": { "type": "Point", "coordinates": [ 20.522249974554001, 54.746439985347003 ] } },
+{ "type": "Feature", "properties": { "Name": "Консульство Республики Казахстан в РФ", "address": "ул. Литовский Вал, 48", "latitude": 54.712889992964001, "longitude": 20.535720028233001 }, "geometry": { "type": "Point", "coordinates": [ 20.535720028233001, 54.712889992964001 ] } },
+{ "type": "Feature", "properties": { "Name": "Резиденция почётного консула Греческой Республики", "address": "ул. Огарёва, 33", "latitude": 54.718779998235, "longitude": 20.466590030336 }, "geometry": { "type": "Point", "coordinates": [ 20.466590030336, 54.718779998235 ] } },
+{ "type": "Feature", "properties": { "Name": "Резиденция почётного консула Республики Хорватия", "address": "ул. Кутузова, 10", "latitude": 54.720200018360998, "longitude": 20.469390005091999 }, "geometry": { "type": "Point", "coordinates": [ 20.469390005091999, 54.720200018360998 ] } },
+{ "type": "Feature", "properties": { "Name": "Посольство Латвийской Республики", "address": "ул. Энгельса, 52А", "latitude": 54.721810014322998, "longitude": 20.460460009268001 }, "geometry": { "type": "Point", "coordinates": [ 20.460460009268001, 54.721810014322998 ] } }
+]
+}

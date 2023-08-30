@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "college",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Name": "Калининградский областной музыкальный колледж имени С. В. Рахманинова", "address": "ул. Фрунзе, 4, Калининград, Россия", "longitude": 20.519074, "latitude": 54.711555 }, "geometry": { "type": "Point", "coordinates": [ 20.519074, 54.711555 ] } },
@@ -17,6 +18,12 @@
 { "type": "Feature", "properties": { "Name": "Прибалтийский судостроительный техникум, учебно-производственная мастерская", "address": "ул. Маршала Новикова, 5, корп. 1, Калининград, Россия", "longitude": 20.48222, "latitude": 54.679854 }, "geometry": { "type": "Point", "coordinates": [ 20.48222, 54.679854 ] } },
 { "type": "Feature", "properties": { "Name": "Колледж информационных технологий и строительства", "address": "ул. Горького, 166, Калининград, Россия", "longitude": 20.502194212766195, "latitude": 54.748294235691191 }, "geometry": { "type": "Point", "coordinates": [ 20.502194212766195, 54.748294235691191 ] } },
 { "type": "Feature", "properties": { "Name": "Колледж предпринимательства", "address": "Спортивная ул., 6, Калининград, Россия", "longitude": 20.457901217447137, "latitude": 54.724033409271968 }, "geometry": { "type": "Point", "coordinates": [ 20.457901217447137, 54.724033409271968 ] } },
-{ "type": "Feature", "properties": { "Name": "Городская поликлиника № 3", "address": "Транспортный тупик, 10, Калининград, Россия", "longitude": 20.445221186007455, "latitude": 54.695271932811465 }, "geometry": { "type": "Point", "coordinates": [ 20.445221186007455, 54.695271932811465 ] } }
+{ "type": "Feature", "properties": { "Name": "Московская государственная академия хореографии", "address": "Солнечный бульвар, 27, Калининград", "longitude": null, "latitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.542443254741595, 54.696561619755677 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтийская государственная академия рыбопромыслового флота", "address": "Островского, 22, Калининград", "longitude": null, "latitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.52613676661904, 54.743711435218572 ] } },
+{ "type": "Feature", "properties": { "Name": "Балтийский информационный техникум", "address": "Литовский вал, 38, Калининград", "longitude": null, "latitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.532470029095407, 54.716840006744889 ] } },
+{ "type": "Feature", "properties": { "Name": "Прибалтийский судостроительный техникум", "address": "Маршала Новикова, 5, Калининград", "longitude": null, "latitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.480601758608454, 54.679935462467633 ] } },
+{ "type": "Feature", "properties": { "Name": "Училище (техникум) олимпийского резерва", "address": "Аллея Смелых, 114, Калининград", "longitude": null, "latitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.521325041260614, 54.679576510270444 ] } },
+{ "type": "Feature", "properties": { "Name": "Прибалтийский судостроительный техникум", "address": "Транспортный тупик, 10 к1, Калининград", "longitude": null, "latitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.444935021597999, 54.69520502379364 ] } },
+{ "type": "Feature", "properties": { "Name": "НАХИМОВСКОЕ ВОЕННО-МОРСКОЕ УЧИЛИЩЕ МИНИСТЕРСТВА ОБОРОНЫ РОССИЙСКОЙ ФЕДЕРАЦИИ", "address": "Артиллерийская, 21, Калининград", "longitude": null, "latitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.541738421569057, 54.733534604749877 ] } }
 ]
 }

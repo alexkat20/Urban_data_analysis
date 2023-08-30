@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "rehabilitation (1)",
 "features": [
 { "type": "Feature", "properties": { "Name": "Здравница Фёдорова", "address": "Больничная ул., 44", "latitude": 54.711410000320001, "longitude": 20.503339981895 }, "geometry": { "type": "Point", "coordinates": [ 20.503339981895, 54.711410000320001 ] } },
 { "type": "Feature", "properties": { "Name": "Реацентр", "address": "просп. Победы, 70А", "latitude": 54.713479995127997, "longitude": 20.450540026860001 }, "geometry": { "type": "Point", "coordinates": [ 20.450540026860001, 54.713479995127997 ] } },
@@ -13,7 +14,6 @@
 { "type": "Feature", "properties": { "Name": "Невромед", "address": "ул. Чайковского, 36, этаж цокольный", "latitude": 54.724930010142003, "longitude": 20.489770015929999 }, "geometry": { "type": "Point", "coordinates": [ 20.489770015929999, 54.724930010142003 ] } },
 { "type": "Feature", "properties": { "Name": "Реха Медика", "address": "Московский просп., 40", "latitude": 54.709370012725003, "longitude": 20.502689965302999 }, "geometry": { "type": "Point", "coordinates": [ 20.502689965302999, 54.709370012725003 ] } },
 { "type": "Feature", "properties": { "Name": "Медэксперт Орто", "address": "Советский просп., 14, - вход, этаж 1", "latitude": 54.723680016922003, "longitude": 20.499050040029999 }, "geometry": { "type": "Point", "coordinates": [ 20.499050040029999, 54.723680016922003 ] } },
-{ "type": "Feature", "properties": { "Name": "СибМедика", "address": "ул. Тенистая Аллея, 40, район Центральный, этаж 1", "latitude": 55.151138413466001, "longitude": 61.291665939857999 }, "geometry": { "type": "Point", "coordinates": [ 61.291665939857999, 55.151138413466001 ] } },
 { "type": "Feature", "properties": { "Name": "Центр медицинской и социальной реабилитации УФСИН", "address": "ул. Чкалова, 7А", "latitude": 54.724639996291998, "longitude": 20.458929976661999 }, "geometry": { "type": "Point", "coordinates": [ 20.458929976661999, 54.724639996291998 ] } },
 { "type": "Feature", "properties": { "Name": "Инь-Янь", "address": "ул. Александра Невского, 11", "latitude": 54.725349985401003, "longitude": 20.526049994177001 }, "geometry": { "type": "Point", "coordinates": [ 20.526049994177001, 54.725349985401003 ] } },
 { "type": "Feature", "properties": { "Name": "Доктор Лор", "address": "Эпроновская ул., 20", "latitude": 54.704369997934002, "longitude": 20.513479989261 }, "geometry": { "type": "Point", "coordinates": [ 20.513479989261, 54.704369997934002 ] } },
@@ -28,7 +28,6 @@
 { "type": "Feature", "properties": { "Name": "Спортивно-оздоровительный центр Фундамент", "address": "ул. Александра Суворова, 40, Калининград, этаж цокольный", "latitude": 54.693619997563999, "longitude": 20.472700018655999 }, "geometry": { "type": "Point", "coordinates": [ 20.472700018655999, 54.693619997563999 ] } },
 { "type": "Feature", "properties": { "Name": "Олирис", "address": "просп. Мира, 57, Калининград", "latitude": 54.71992999535, "longitude": 20.478849988654002 }, "geometry": { "type": "Point", "coordinates": [ 20.478849988654002, 54.71992999535 ] } },
 { "type": "Feature", "properties": { "Name": "Кабинет восстановления и коррекции речи", "address": "ул. Дзержинского, 130, Калининград, комната 14В", "latitude": 54.683600019050999, "longitude": 20.533569986248999 }, "geometry": { "type": "Point", "coordinates": [ 20.533569986248999, 54.683600019050999 ] } },
-{ "type": "Feature", "properties": { "Name": "Тоша & Со", "address": "ул. 9 Апреля, 1, Калининград, этаж 2", "latitude": 55.91417, "longitude": 37.82556 }, "geometry": { "type": "Point", "coordinates": [ 37.82556, 55.91417 ] } },
 { "type": "Feature", "properties": { "Name": "Пульмонологический центр", "address": "ул. Петра Панина, 8А, Ленинградский район, микрорайон Сельма, Калининград", "latitude": 54.746327296049003, "longitude": 20.494085019684 }, "geometry": { "type": "Point", "coordinates": [ 20.494085019684, 54.746327296049003 ] } },
 { "type": "Feature", "properties": { "Name": "Орто-Инновации", "address": "ул. Генерала Челнокова, 56, Калининград, офис 5,6", "latitude": 54.748509980154999, "longitude": 20.480110040157999 }, "geometry": { "type": "Point", "coordinates": [ 20.480110040157999, 54.748509980154999 ] } }
 ]

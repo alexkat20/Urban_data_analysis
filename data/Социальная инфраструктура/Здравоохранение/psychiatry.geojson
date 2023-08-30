@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Областная психиатрическая больница № 1", "address": "ул. Александра Невского, 78А, Калининград, Россия", "longitude": 20.535691, "latitude": 54.738116 }, "geometry": { "type": "Point", "coordinates": [ 20.535691, 54.738116 ] } },
+{ "type": "Feature", "properties": { "Name": "Психиатрическая больница № 2", "address": "Заводская ул., 13, микрорайон Прибрежный, Калининград, Россия", "longitude": 20.333056, "latitude": 54.647014 }, "geometry": { "type": "Point", "coordinates": [ 20.333056, 54.647014 ] } }
+]
+}

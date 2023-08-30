@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
+"name": "hospice",
 "features": [
 { "type": "Feature", "properties": { "Name": "Дом Фрупполо", "address": "ул. Юрия Гагарина, 11", "latitude": 54.716319993471998, "longitude": 20.539500015108 }, "geometry": { "type": "Point", "coordinates": [ 20.539500015108, 54.716319993471998 ] } },
-{ "type": "Feature", "properties": { "Name": "Городская больница № 2", "address": "ул. Дзержинского, 147", "latitude": 54.673770016372998, "longitude": 20.543410005300998 }, "geometry": { "type": "Point", "coordinates": [ 20.543410005300998, 54.673770016372998 ] } }
+{ "type": "Feature", "properties": { "Name": "Отделение паллиативной медицинской помощи", "address": "Чапаева, 26-28, Калининград", "latitude": null, "longitude": null }, "geometry": { "type": "Point", "coordinates": [ 20.464160032786509, 54.720020016990617 ] } }
 ]
 }

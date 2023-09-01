@@ -44,6 +44,6 @@
 { "type": "Feature", "properties": { "Name": "Книги", "address": "ул. Черняховского, 15лит1, Калининград", "latitude": 54.721320008264001, "longitude": 20.513519970939001 }, "geometry": { "type": "Point", "coordinates": [ 20.513519970939001, 54.721320008264001 ] } },
 { "type": "Feature", "properties": { "Name": "Православная книга", "address": "площадь Победы, 2, корп. 3, Калининград", "latitude": 54.721730009056998, "longitude": 20.503499992426001 }, "geometry": { "type": "Point", "coordinates": [ 20.503499992426001, 54.721730009056998 ] } },
 { "type": "Feature", "properties": { "Name": "Кот Ученый", "address": "ул. Сергеева, 10, Калининград, этаж 1", "latitude": 54.717590019440998, "longitude": 20.518169999364002 }, "geometry": { "type": "Point", "coordinates": [ 20.518169999364002, 54.717590019440998 ] } },
-{ "type": "Feature", "properties": { "Name": "LeVi", "address": "Космическая ул., 8, Калининград", "latitude": 54.715410012154003, "longitude": 20.501230005408001 }, "geometry": { "type": "Point", "coordinates": [ 20.501230005408001, 54.715410012154003 ] } },
+{ "type": "Feature", "properties": { "Name": "LeVi", "address": "Космическая ул., 8, Калининград", "latitude": 54.715410012154003, "longitude": 20.501230005408001 }, "geometry": { "type": "Point", "coordinates": [ 20.501230005408001, 54.715410012154003 ] } }
 ]
 }

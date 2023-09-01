@@ -40,6 +40,6 @@
 { "type": "Feature", "properties": { "Name": "Отделение почтовой связи № 236020", "address": "Парковая ул., 1, микрорайон Прибрежный, Калининград", "latitude": 54.650300016929997, "longitude": 20.339479977423 }, "geometry": { "type": "Point", "coordinates": [ 20.339479977423, 54.650300016929997 ] } },
 { "type": "Feature", "properties": { "Name": "Почта России", "address": "ул. 9 Апреля, 5, Калининград", "latitude": 54.714030015615002, "longitude": 20.521719986815999 }, "geometry": { "type": "Point", "coordinates": [ 20.521719986815999, 54.714030015615002 ] } },
 { "type": "Feature", "properties": { "Name": "Отделение почтовой связи № 236015", "address": "Железнодорожная ул., 27, Калининград", "latitude": 54.729469984178003, "longitude": 20.588150006060999 }, "geometry": { "type": "Point", "coordinates": [ 20.588150006060999, 54.729469984178003 ] } },
-{ "type": "Feature", "properties": { "Name": "Отделение почтовой связи № 238546", "address": "ул. Ленина, 2, Гурьевск", "latitude": 54.773679997201, "longitude": 20.610860018343999 }, "geometry": { "type": "Point", "coordinates": [ 20.610860018343999, 54.773679997201 ] } },
+{ "type": "Feature", "properties": { "Name": "Отделение почтовой связи № 238546", "address": "ул. Ленина, 2, Гурьевск", "latitude": 54.773679997201, "longitude": 20.610860018343999 }, "geometry": { "type": "Point", "coordinates": [ 20.610860018343999, 54.773679997201 ] } }
 ]
 }

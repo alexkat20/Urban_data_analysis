@@ -189,6 +189,6 @@
 { "type": "Feature", "properties": { "Name": "Цап-царап", "address": "Интернациональная ул., 40А, Калининград, павильон 15", "latitude": 54.668900004900003, "longitude": 20.502549987519998 }, "geometry": { "type": "Point", "coordinates": [ 20.502549987519998, 54.668900004900003 ] } },
 { "type": "Feature", "properties": { "Name": "Милка", "address": "ул. Ульяны Громовой, 50А, Калининград", "latitude": 54.670100000067997, "longitude": 20.500430036569 }, "geometry": { "type": "Point", "coordinates": [ 20.500430036569, 54.670100000067997 ] } },
 { "type": "Feature", "properties": { "Name": "Тимоша", "address": "Московский просп., 229, Калининград, этаж 1", "latitude": 54.708769994187001, "longitude": 20.571809988735001 }, "geometry": { "type": "Point", "coordinates": [ 20.571809988735001, 54.708769994187001 ] } },
-{ "type": "Feature", "properties": { "Name": "Zoo", "address": "ул. Александра Суворова, 112, Калининград", "latitude": 54.684720008953001, "longitude": 20.457210010131 }, "geometry": { "type": "Point", "coordinates": [ 20.457210010131, 54.684720008953001 ] } },
+{ "type": "Feature", "properties": { "Name": "Zoo", "address": "ул. Александра Суворова, 112, Калининград", "latitude": 54.684720008953001, "longitude": 20.457210010131 }, "geometry": { "type": "Point", "coordinates": [ 20.457210010131, 54.684720008953001 ] } }
 ]
 }

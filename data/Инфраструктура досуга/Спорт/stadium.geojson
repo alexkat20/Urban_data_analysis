@@ -1,12 +1,13 @@
 {
 "type": "FeatureCollection",
+"name": "stadium",
 "features": [
-{ "type": "Feature", "properties": { "Name": "Стадион Калининград", "address": "Солнечный бул., 25", "latitude": 54.704548825049002, "longitude": 20.51885058769 }, "geometry": { "type": "Point", "coordinates": [ 20.51885058769, 54.704548825049002 ] } },
-{ "type": "Feature", "properties": { "Name": "Пионер", "address": "просп. Мира, 134", "latitude": 54.724379989656001, "longitude": 20.453749960500001 }, "geometry": { "type": "Point", "coordinates": [ 20.453749960500001, 54.724379989656001 ] } },
-{ "type": "Feature", "properties": { "Name": "Стадион", "address": "Московский просп., 171", "latitude": 54.710329992096, "longitude": 20.541830016552002 }, "geometry": { "type": "Point", "coordinates": [ 20.541830016552002, 54.710329992096 ] } },
+{ "type": "Feature", "properties": { "Name": "Стадион Калининград", "address": "Солнечный бул., 25", "latitude": 54.704548825049002, "longitude": 20.51885058769 }, "geometry": { "type": "Point", "coordinates": [ 20.533455091344678, 54.697870966527987 ] } },
+{ "type": "Feature", "properties": { "Name": "Пионер", "address": "просп. Мира, 134", "latitude": 54.724379989656001, "longitude": 20.453749960500001 }, "geometry": { "type": "Point", "coordinates": [ 20.45377377219074, 54.723654591811957 ] } },
+{ "type": "Feature", "properties": { "Name": "Стадион", "address": "Московский просп., 171", "latitude": 54.710329992096, "longitude": 20.541830016552002 }, "geometry": { "type": "Point", "coordinates": [ 20.541004544606302, 54.710623457923319 ] } },
 { "type": "Feature", "properties": { "Name": "Красная звезда", "address": "ул. Чайковского, 39, корп. 1", "latitude": 54.724620005452998, "longitude": 20.488379961107 }, "geometry": { "type": "Point", "coordinates": [ 20.488379961107, 54.724620005452998 ] } },
-{ "type": "Feature", "properties": { "Name": "Стадион", "address": "ул. Горького, 83", "latitude": 54.730499994349998, "longitude": 20.507850032535998 }, "geometry": { "type": "Point", "coordinates": [ 20.507850032535998, 54.730499994349998 ] } },
-{ "type": "Feature", "properties": { "Name": "Труд", "address": "просп. Мира, 15", "latitude": 54.716540018430003, "longitude": 20.490130018671 }, "geometry": { "type": "Point", "coordinates": [ 20.490130018671, 54.716540018430003 ] } },
+{ "type": "Feature", "properties": { "Name": "Стадион", "address": "ул. Горького, 83", "latitude": 54.730499994349998, "longitude": 20.507850032535998 }, "geometry": { "type": "Point", "coordinates": [ 20.508635818330461, 54.730513743738385 ] } },
+{ "type": "Feature", "properties": { "Name": "Труд", "address": "просп. Мира, 15", "latitude": 54.716540018430003, "longitude": 20.490130018671 }, "geometry": { "type": "Point", "coordinates": [ 20.490108852723676, 54.717022939014697 ] } },
 { "type": "Feature", "properties": { "Name": "Локомотив", "address": "Нарвская ул., 54, корп. 5, этаж 3", "latitude": 54.731380010363999, "longitude": 20.500500025461001 }, "geometry": { "type": "Point", "coordinates": [ 20.500500025461001, 54.731380010363999 ] } },
 { "type": "Feature", "properties": { "Name": "Стадион БГА", "address": "ул. Куйбышева, 91А", "latitude": 54.726379995572998, "longitude": 20.537289958696999 }, "geometry": { "type": "Point", "coordinates": [ 20.537289958696999, 54.726379995572998 ] } },
 { "type": "Feature", "properties": { "Name": "Трудовые резервы", "address": "Яблочная ул., 3А, корп. 1, этаж 2", "latitude": 54.689929990419003, "longitude": 20.534689976151 }, "geometry": { "type": "Point", "coordinates": [ 20.534689976151, 54.689929990419003 ] } }

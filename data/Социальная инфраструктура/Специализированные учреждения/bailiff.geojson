@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "bailiff",
 "features": [
 { "type": "Feature", "properties": { "Name": "ОСП Московского района", "address": "Дюнная ул., 12, Калининград", "latitude": 54.686189985222001, "longitude": 20.520000020284002 }, "geometry": { "type": "Point", "coordinates": [ 20.520000020284002, 54.686189985222001 ] } },
 { "type": "Feature", "properties": { "Name": "Отдел судебных приставов", "address": "ул. Сергеева, 2, Калининград, этаж 5", "latitude": 54.714679990297, "longitude": 20.514439968632001 }, "geometry": { "type": "Point", "coordinates": [ 20.514439968632001, 54.714679990297 ] } },
@@ -17,9 +18,6 @@
 { "type": "Feature", "properties": { "Name": "Отдел по исполнительным производствам", "address": "Центральный пер., 2, Гвардейск", "latitude": 54.719300011507997, "longitude": 20.500540007139001 }, "geometry": { "type": "Point", "coordinates": [ 20.500540007139001, 54.719300011507997 ] } },
 { "type": "Feature", "properties": { "Name": "ОСП Гвардейского района", "address": "Дюнная ул., 12, Калининград", "latitude": 54.686189985222001, "longitude": 20.520000020284002 }, "geometry": { "type": "Point", "coordinates": [ 20.520000020284002, 54.686189985222001 ] } },
 { "type": "Feature", "properties": { "Name": "МРО по обеспечению установленного порядка деятельности судов, ФССП", "address": "просп. Мира, 5-7, Калининград, этаж 1", "latitude": 54.719580008983002, "longitude": 20.496470006414 }, "geometry": { "type": "Point", "coordinates": [ 20.496470006414, 54.719580008983002 ] } },
-{ "type": "Feature", "properties": { "Name": "Отдел государственной службы и кадров", "address": "просп. Мира, 7, Калининград", "latitude": 54.719560018144001, "longitude": 20.496000033103002 }, "geometry": { "type": "Point", "coordinates": [ 20.496000033103002, 54.719560018144001 ] } },
-{ "type": "Feature", "properties": { "Name": "Финансово-экономический отдел", "address": "Дюнная ул., 12, Калининград", "latitude": 54.686189985222001, "longitude": 20.520000020284002 }, "geometry": { "type": "Point", "coordinates": [ 20.520000020284002, 54.686189985222001 ] } },
-{ "type": "Feature", "properties": { "Name": "Специализированный отдел оперативного дежурства, ФССП", "address": "просп. Мира, 7, Калининград", "latitude": 54.719560018144001, "longitude": 20.496000033103002 }, "geometry": { "type": "Point", "coordinates": [ 20.496000033103002, 54.719560018144001 ] } },
-{ "type": "Feature", "properties": { "Name": "Отдел правового и документационного обеспечения", "address": "просп. Мира, 5, Калининград", "latitude": 54.719580008983002, "longitude": 20.496470006414 }, "geometry": { "type": "Point", "coordinates": [ 20.496470006414, 54.719580008983002 ] } }
+{ "type": "Feature", "properties": { "Name": "Специализированный отдел оперативного дежурства, ФССП", "address": "просп. Мира, 7, Калининград", "latitude": 54.719560018144001, "longitude": 20.496000033103002 }, "geometry": { "type": "Point", "coordinates": [ 20.496000033103002, 54.719560018144001 ] } }
 ]
 }

@@ -6,3 +6,6 @@ city_model = BaseModel.CityInformationModel(city_name="Kaliningrad", city_crs=32
 
 print(city_model.MobilityGraph)
 
+city_model.update_layer(attr_name="Buildings", file_name="full_data.geojson")
+
+print(city_model.Buildings)

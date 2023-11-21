@@ -9,3 +9,8 @@ print(city_model.MobilityGraph)
 city_model.update_layer(attr_name="Buildings", file_name="full_data.geojson")
 
 print(city_model.Buildings)
+
+city_model.update_layer(attr_name="Cafes", file_name="Urban_data_analysis/data/Инфраструктура досуга/Питание/cafe.geojson")
+
+
+city_model.methods.services_clusterization.message

@@ -20,9 +20,9 @@
 
 <h2>Визуализация города и зданий</h2>
 
-![Screenshot 2023-11-12 173547.png](Screenshot%202023-11-12%20173547.png)
+![Screenshot 2023-11-12 173547.png](src%2FScreenshot%202023-11-12%20173547.png)
 
-![Screenshot 2023-11-12 173702.png](Screenshot%202023-11-12%20173702.png)
+![Screenshot 2023-11-12 173702.png](src%2FScreenshot%202023-11-12%20173702.png)
 
 
 <h2>Загрузка слоя со зданиями находится в папке notebooks в ноутбуке под названием Buildings_formatting</h2>

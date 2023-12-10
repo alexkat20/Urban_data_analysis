@@ -69,3 +69,13 @@
 <p>Public transport изохрон</p>
 
 ![public_transport_iso.png](src%2Fpublic_transport_iso.png)
+
+
+<p>Скрипты для оценки обеспеченности находятся в папке notebooks</p>
+<p>Скрипт для определения обеспеченности музеями - </p> 
+
+[Museum_provision.ipynb](notebooks%2FMuseum_provision.ipynb)
+
+<p>Визуализация обеспеченности музеями представлена на скриншоте ниже. Красные точки - музеи</p>
+
+![img.png](src/img.png)

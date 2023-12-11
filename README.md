@@ -71,7 +71,7 @@
 ![public_transport_iso.png](src%2Fpublic_transport_iso.png)
 
 
-<p>Скрипты для оценки обеспеченности находятся в папке notebooks</p>
+<h2>Скрипты для оценки обеспеченности находятся в папке notebooks</h2>
 <p>Скрипт для определения обеспеченности музеями - </p> 
 
 [Museum_provision.ipynb](notebooks%2FMuseum_provision.ipynb)

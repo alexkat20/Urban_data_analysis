@@ -76,6 +76,14 @@
 
 [Museum_provision.ipynb](notebooks%2FMuseum_provision.ipynb)
 
+<p>Скрипт для определения обеспеченности библиотеками -  - </p> 
+
+[provision.ipynb](notebooks%2Fprovision.ipynb)
+
 <p>Визуализация обеспеченности музеями представлена на скриншоте ниже. Красные точки - музеи</p>
 
 ![img.png](src/img.png)
+
+<p>Визуализация обеспеченности библиотеками представлена на скриншоте ниже. Красные точки - музеи</p>
+
+![img.png](src/img2.png)
